@@ -7,7 +7,7 @@
 - Se debe poder completar los todos.
 - Utilizar la API de https://jsonplaceholder.typicode.com/
 
-##Ejercicio Final: Herramienta de Blogging
+## Ejercicio Final: Herramienta de Blogging
 - La aplicación se divide en dos: Administración y blog.
 - La pantalla principal, y de blogging, contiene un listado de posts los cuales se traen de la API https://jsonplaceholder.typicode.com/
 - Cada post debe contener también el nombre y correo del autor.
